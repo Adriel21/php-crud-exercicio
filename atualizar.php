@@ -68,7 +68,7 @@
 
 </div>
 
-<script src="/exercicio-php-crud-main/js/confirme.js"></script>
+<script src="./js/confirme.js"></script>
 <script src="bootstrap-5.2.0-beta1-dist/js/bootstrap.bundle.js"></script>
 </body>
 </html>
